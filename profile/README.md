@@ -14,7 +14,7 @@
 # 한국교통대학교 Web 스터디 모임
 
 ## Projects
-- real-time chat system web project
+- **real-time chat system web project**
 
 ## Stacks
 ### Web
