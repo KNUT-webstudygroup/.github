@@ -7,23 +7,23 @@
 - snack case
 - 모두 소문자와 공백이 들어가는 자리에는 _로 시작하면 됩니다
 ```js
-    let is_bit_set //올바름
-    let isBitSet   //🚫
+    let is_bit_set; //올바름
+    let isBitSet;   //🚫
 ```
 
 ## 함수명
 - Carmel case
 - 소문자로 시작해서, 띄워쓰는 다음부분을 대문자로 씁니다
 ```js
-    function setCafeName(cafe_name) // 올바름
-    function set_cafe_name(cafeName) // 코드의 통일성을 해침.
+    function setCafeName(cafe_name); // 올바름
+    function set_cafe_name(cafeName); // 코드의 통일성을 해침.
 ```
 
 ## Class
 - 클래스 명은 **대문자로 시작해서** , 띄워쓰는 다음부분을 대문자로 씁니다.
 ```js
-class Shop : // ok
-class shop : // X
+class Shop : ;// ok
+class shop : ;// X
 ```
 - 그러나 메서드명은 카멜케이스처럼 쓰시면 됩니다.
 ```Csharp
@@ -38,8 +38,8 @@ class LathionUnit{
 ```
 ```js
 class Shop:
-   constructer( name):
-        this.cafeName=name // 메서드 
+   constructer(name):
+        this.cafeName=name;// 메서드 
 
 ```
 
