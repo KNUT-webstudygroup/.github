@@ -45,12 +45,13 @@
 |----------|-------|
 |Docker|For Container develop|
 |K3S|For orchestra containers|
+|Github-Action|For code test(CI/CD)|
 |Git|For version control|
 
 ### Server
 |Stack name (스택명)|used to(사용 목적)|
 |----------|-------|
-|Github-Action|Static-page|
+|Github-Page|Static-page|
 |AWS|back-end platform|
 
 ## MEMBERS
