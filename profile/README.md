@@ -40,6 +40,19 @@
 |Kafka|For handling server event|
 |Redis|For handling member session|
 
+### Dev-Ops
+|Stack name (스택명)|used to(사용 목적)|
+|----------|-------|
+|Docker|For Container develop|
+|K3S|For orchestra containers|
+|Git|For version control|
+
+### Server
+|Stack name (스택명)|used to(사용 목적)|
+|----------|-------|
+|Github-Action|Static-page|
+|AWS|back-end platform|
+
 ## MEMBERS
 
 ### Lutica CANARD
