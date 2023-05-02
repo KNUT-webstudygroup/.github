@@ -19,14 +19,26 @@
 ## Stacks
 ### Web
 #### Front 
-- HTML
-- Css, SCSS
-- JavaScript, React
+
+|Stack name (스택명)|used to(사용 목적)|
+|----------|-------|
+|HTML|For make document|
+|SCSS(Css)|For pretty web document|
+|JavaScript|Used for i18n|
+|React|For make App|
+|TypeScript|For make App|
+|Vite|For Build and debug|
+|SWC|Used for fast compile|
+
 
 #### Back
-- Node.js
-- Websocket
-- (maybe) PostgreSQL
+|Stack name (스택명)|used to(사용 목적)|
+|----------|-------|
+|Node.Js with TS|For main scripting|
+|Websocket|For chatting update|
+|MYSQL|For achiving|
+|Kafka|For handling server event|
+|Redis|For handling member session|
 
 ## MEMBERS
 
