@@ -28,7 +28,7 @@
 |React|For make App|
 |TypeScript|For make App|
 |Vite|For Build and debug|
-|SWC|Used for fast compile|
+|~~SWC~~|~~Used for fast compile~~   도입 유보 (사유: 불안정성)|
 
 
 #### Back
