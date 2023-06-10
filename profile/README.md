@@ -37,14 +37,14 @@
 |Node.Js with TS|For main scripting|
 |Websocket|For chatting update|
 |MYSQL|For achiving|
-|Kafka|For handling server event|
+|~~Kafka~~|~~For handling server event~~ 도입 재검토|
 |Redis|For handling member session|
 
 ### Dev-Ops
 |Stack name (스택명)|used to(사용 목적)|
 |----------|-------|
 |Docker|For Container develop|
-|K3S|For orchestra containers|
+|~~K3S~~|~~For orchestra containers~~  도입 재검토|
 |Github-Action|For code test(CI/CD)|
 |Git|For version control|
 
