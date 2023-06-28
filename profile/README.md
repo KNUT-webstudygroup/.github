@@ -36,9 +36,10 @@
 |----------|-------|
 |Node.Js with TS|For main scripting|
 |Websocket|For chatting update|
-|MYSQL|For achiving|
+|MYSQL/planetscale|For achiving|
 |~~Kafka~~|~~For handling server event~~ 도입 재검토|
 |Redis|For handling member session|
+|Prisma/kysely| For type-safety sql query and use to planetscale|
 
 ### Dev-Ops
 |Stack name (스택명)|used to(사용 목적)|
